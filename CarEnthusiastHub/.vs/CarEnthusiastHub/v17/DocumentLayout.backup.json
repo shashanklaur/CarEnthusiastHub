@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\carenthusiastdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\carenthusiastdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\controllers\\carcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\controllers\\carcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\carcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\carcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|c:\\users\\shank\\source\\repos\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\carenthusiasthub\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC4F5F-E05E-400D-86D0-17A07B8399DB}|CarEnthusiastHub\\CarEnthusiastHub.csproj|solutionrelative:carenthusiasthub\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\CarDTO.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\CarDTO.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\CarDTO.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\CarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:15:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:03:51.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Program.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Program.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Program.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:23:15.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\appsettings.json",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\appsettings.json",
+              "RelativeToolTip": "CarEnthusiastHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T23:22:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\CarCategoriesController.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Controllers\\CarCategoriesController.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\CarCategoriesController.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Controllers\\CarCategoriesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:06:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarEnthusiastDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\CarEnthusiastDbContext.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\CarEnthusiastDbContext.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\CarEnthusiastDbContext.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\CarEnthusiastDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:03:42.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarCategory.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\CarCategory.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\CarCategory.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\CarCategory.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\CarCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:03:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\Category.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:02:38.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:05:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\User.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:02:20.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:04:51.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:05:36.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarEnthusiastHub\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\Models\\Car.cs",
+              "RelativeToolTip": "CarEnthusiastHub\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:59:22.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
