@@ -172,3 +172,6 @@ C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\C
 C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\obj\Debug\net8.0\CarEnthusiastHub.genruntimeconfig.cache
 C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\obj\Debug\net8.0\ref\CarEnthusiastHub.dll
 C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\bin\Debug\net8.0\CarEnthusiastHub.staticwebassets.runtime.json
+C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\obj\Debug\net8.0\CarEnthusiastHub.RazorAssemblyInfo.cache
+C:\Users\shank\source\repos\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\CarEnthusiastHub\obj\Debug\net8.0\CarEnthusiastHub.RazorAssemblyInfo.cs

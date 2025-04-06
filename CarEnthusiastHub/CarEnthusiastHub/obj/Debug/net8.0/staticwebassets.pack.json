@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\wwwroot\\uploads\\2890d88b-bf44-4887-b773-0b6674597c0b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2890d88b-bf44-4887-b773-0b6674597c0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\wwwroot\\uploads\\bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarEnthusiastHub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarEnthusiastHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarEnthusiastHub.props",
+      "PackagePath": "build\\CarEnthusiastHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarEnthusiastHub.props",
+      "PackagePath": "buildMultiTargeting\\CarEnthusiastHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarEnthusiastHub.props",
+      "PackagePath": "buildTransitive\\CarEnthusiastHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

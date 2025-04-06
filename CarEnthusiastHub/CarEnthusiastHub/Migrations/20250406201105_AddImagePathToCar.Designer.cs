@@ -3,6 +3,7 @@ using CarEnthusiastHub.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CarEnthusiastHub.Migrations
 {
     [DbContext(typeof(CarEnthusiastDbContext))]
-    partial class CarEnthusiastDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250406201105_AddImagePathToCar")]
+    partial class AddImagePathToCar
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

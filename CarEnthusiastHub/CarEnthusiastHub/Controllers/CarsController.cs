@@ -2,19 +2,24 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using CarEnthusiastHub.Models;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Hosting;
+using System.IO;
 
 namespace CarEnthusiastHub.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class CarsController : ControllerBase
     {
         private readonly CarEnthusiastDbContext _context;
+        private readonly IWebHostEnvironment _environment;
 
-        public CarsController(CarEnthusiastDbContext context)
+        public CarsController(CarEnthusiastDbContext context, IWebHostEnvironment environment)
         {
             _context = context;
+            _environment = environment;
         }
 
         [HttpGet]
@@ -44,6 +49,41 @@ namespace CarEnthusiastHub.Controllers
             return CreatedAtAction(nameof(GetCars), new { id = car.CarId }, car);
         }
 
+        //  New Endpoint: Create car with image upload
+        [HttpPost("create-with-image")]
+        public async Task<IActionResult> CreateCarWithImage([FromForm] Car formCar, IFormFile imageFile)
+        {
+            var car = new Car
+            {
+                Make = formCar.Make,
+                Model = formCar.Model,
+                Year = formCar.Year,
+                Review = formCar.Review,
+                UserId = formCar.UserId,
+                // Don't assign CarId
+            };
+
+            if (imageFile != null && imageFile.Length > 0)
+            {
+                var uploadsFolder = Path.Combine(_environment.WebRootPath, "uploads");
+                Directory.CreateDirectory(uploadsFolder);
+
+                var fileName = Guid.NewGuid().ToString() + Path.GetExtension(imageFile.FileName);
+                var filePath = Path.Combine(uploadsFolder, fileName);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await imageFile.CopyToAsync(stream);
+                }
+
+                car.ImagePath = "/uploads/" + fileName;
+            }
+
+            _context.Cars.Add(car);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetCars), new { id = car.CarId }, car);
+        }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCar(int id, CarDTO carDTO)
@@ -66,7 +106,6 @@ namespace CarEnthusiastHub.Controllers
             return NoContent();
         }
 
-
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCar(int id)
         {
@@ -81,3 +120,4 @@ namespace CarEnthusiastHub.Controllers
         }
     }
 }
+

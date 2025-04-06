@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CarEnthusiastHub/uploads/2890d88b-bf44-4887-b773-0b6674597c0b.e2lx5w9swu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2890d88b-bf44-4887-b773-0b6674597c0b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e2lx5w9swu"},{"Name":"integrity","Value":"sha256-5h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI="},{"Name":"label","Value":"_content/CarEnthusiastHub/uploads/2890d88b-bf44-4887-b773-0b6674597c0b.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"515538"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 20:05:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarEnthusiastHub/uploads/2890d88b-bf44-4887-b773-0b6674597c0b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2890d88b-bf44-4887-b773-0b6674597c0b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"515538"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 20:05:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarEnthusiastHub/uploads/bb811e35-3906-45d1-b1a7-5f6d07b2330c.e2lx5w9swu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e2lx5w9swu"},{"Name":"integrity","Value":"sha256-5h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI="},{"Name":"label","Value":"_content/CarEnthusiastHub/uploads/bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"515538"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 20:16:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarEnthusiastHub/uploads/bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"515538"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225h3LFdjkxIBNYzMMoSgDB5r38vIqCv3gIlwbpDJ0FqI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Apr 2025 20:16:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

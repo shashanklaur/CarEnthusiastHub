@@ -201,6 +201,138 @@
         }
       }
     },
+    "/api/Cars/create-with-image": {
+      "post": {
+        "tags": [
+          "Cars"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "CarId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Make": {
+                    "type": "string"
+                  },
+                  "Model": {
+                    "type": "string"
+                  },
+                  "Year": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "ImageUrl": {
+                    "type": "string"
+                  },
+                  "Review": {
+                    "type": "string"
+                  },
+                  "UserId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "User.UserId": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "User.Name": {
+                    "type": "string"
+                  },
+                  "User.Email": {
+                    "type": "string"
+                  },
+                  "User.PasswordHash": {
+                    "type": "string"
+                  },
+                  "User.Salt": {
+                    "type": "string"
+                  },
+                  "User.Cars": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Car"
+                    }
+                  },
+                  "CarCategories": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/CarCategory"
+                    }
+                  },
+                  "ImagePath": {
+                    "type": "string"
+                  },
+                  "imageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "CarId": {
+                  "style": "form"
+                },
+                "Make": {
+                  "style": "form"
+                },
+                "Model": {
+                  "style": "form"
+                },
+                "Year": {
+                  "style": "form"
+                },
+                "ImageUrl": {
+                  "style": "form"
+                },
+                "Review": {
+                  "style": "form"
+                },
+                "UserId": {
+                  "style": "form"
+                },
+                "User.UserId": {
+                  "style": "form"
+                },
+                "User.Name": {
+                  "style": "form"
+                },
+                "User.Email": {
+                  "style": "form"
+                },
+                "User.PasswordHash": {
+                  "style": "form"
+                },
+                "User.Salt": {
+                  "style": "form"
+                },
+                "User.Cars": {
+                  "style": "form"
+                },
+                "CarCategories": {
+                  "style": "form"
+                },
+                "ImagePath": {
+                  "style": "form"
+                },
+                "imageFile": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Cars/{id}": {
       "put": {
         "tags": [
@@ -549,6 +681,10 @@
             "items": {
               "$ref": "#/components/schemas/CarCategory"
             },
+            "nullable": true
+          },
+          "imagePath": {
+            "type": "string",
             "nullable": true
           }
         },
