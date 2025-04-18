@@ -39,9 +39,9 @@ namespace CarEnthusiastHub.Controllers
                 Make = carDTO.Make,
                 Model = carDTO.Model,
                 Year = carDTO.Year,
-                ImageUrl = carDTO.ImageUrl,
                 Review = carDTO.Review,
-                UserId = carDTO.UserId
+                UserId = carDTO.UserId,
+                ImagePath = carDTO.ImageUrl 
             };
 
             _context.Cars.Add(car);
@@ -60,7 +60,6 @@ namespace CarEnthusiastHub.Controllers
                 Year = formCar.Year,
                 Review = formCar.Review,
                 UserId = formCar.UserId,
-                // Don't assign CarId
             };
 
             if (imageFile != null && imageFile.Length > 0)
@@ -97,9 +96,9 @@ namespace CarEnthusiastHub.Controllers
             car.Make = carDTO.Make;
             car.Model = carDTO.Model;
             car.Year = carDTO.Year;
-            car.ImageUrl = carDTO.ImageUrl;
             car.Review = carDTO.Review;
             car.UserId = carDTO.UserId;
+            car.ImagePath = carDTO.ImageUrl; 
 
             _context.Entry(car).State = EntityState.Modified;
             await _context.SaveChangesAsync();
@@ -120,4 +119,3 @@ namespace CarEnthusiastHub.Controllers
         }
     }
 }
-

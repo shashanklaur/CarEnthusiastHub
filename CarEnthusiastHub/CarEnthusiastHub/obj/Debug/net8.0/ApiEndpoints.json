@@ -178,11 +178,6 @@
         "IsRequired": false
       },
       {
-        "Name": "ImageUrl",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
         "Name": "Review",
         "Type": "System.String",
         "IsRequired": false

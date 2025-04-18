@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i94uR6cpFBQ=",
+  "dgSpecHash": "Pgq2jS6+csQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub.csproj",
+  "projectFilePath": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shank\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\shank\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

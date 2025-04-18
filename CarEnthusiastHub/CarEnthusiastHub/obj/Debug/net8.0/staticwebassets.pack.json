@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\wwwroot\\uploads\\2890d88b-bf44-4887-b773-0b6674597c0b.jpg",
-      "PackagePath": "staticwebassets\\uploads\\2890d88b-bf44-4887-b773-0b6674597c0b.jpg"
-    },
-    {
-      "Id": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\wwwroot\\uploads\\bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg",
-      "PackagePath": "staticwebassets\\uploads\\bb811e35-3906-45d1-b1a7-5f6d07b2330c.jpg"
+      "Id": "C:\\Users\\shank\\source\\repos\\CarEnthusiastHub\\CarEnthusiastHub\\CarEnthusiastHub\\wwwroot\\uploads\\6e2b179c-cb77-408a-bafd-5f88ec568b8b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6e2b179c-cb77-408a-bafd-5f88ec568b8b.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarEnthusiastHub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

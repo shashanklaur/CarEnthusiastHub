@@ -226,9 +226,6 @@
                     "type": "integer",
                     "format": "int32"
                   },
-                  "ImageUrl": {
-                    "type": "string"
-                  },
                   "Review": {
                     "type": "string"
                   },
@@ -284,9 +281,6 @@
                   "style": "form"
                 },
                 "Year": {
-                  "style": "form"
-                },
-                "ImageUrl": {
                   "style": "form"
                 },
                 "Review": {
@@ -660,10 +654,6 @@
           "year": {
             "type": "integer",
             "format": "int32"
-          },
-          "imageUrl": {
-            "type": "string",
-            "nullable": true
           },
           "review": {
             "type": "string",
